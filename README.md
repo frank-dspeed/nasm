@@ -1,6 +1,11 @@
-NASM, the Netwide Assembler
+NASM, the Netwide Assembler migration project under The Unlicense.
 ===========================
 
+This is a hard fork with the intend to replace everything with Stealify this acts as a incremental repo for that process and will get later ported to the stealify org as more adoption comes up. 
+
+
+
+## Stealify Migration of NASM 
 [![master](https://travis-ci.org/netwide-assembler/nasm.svg?branch=master)](https://travis-ci.org/netwide-assembler/nasm)
 
 Many many developers all over the net respect NASM for what it is:
